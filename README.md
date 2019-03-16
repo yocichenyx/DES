@@ -1,4 +1,4 @@
-# DES
+# DES加密软件
 >This is a software that can encode and decode files based on DES.
 
 >用于加解密文件的工具软件,基于DES加密算法和MFC。  
@@ -12,15 +12,18 @@
 
 ![](https://github.com/yocichenyx/DES/blob/master/surface.png)
 
-### 加密结果
 ![](https://github.com/yocichenyx/DES/blob/master/status.png)
 
+### 加密结果
 + 明文
+
 ![](https://github.com/yocichenyx/DES/blob/master/plain.png)
 
 + 密文
+
 ![](https://github.com/yocichenyx/DES/blob/master/cipher.png)
 
 + 解密后明文
-![](https://github.com/yocichenyx/DES/blob/master/newplain.png)
+
+![](https://github.com/yocichenyx/DES/blob/master/newpalin.png)
 
