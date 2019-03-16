@@ -16,14 +16,11 @@
 ![](https://github.com/yocichenyx/DES/blob/master/status.png)
 
 + 明文
-
 ![](https://github.com/yocichenyx/DES/blob/master/plain.png)
 
 + 密文
-
 ![](https://github.com/yocichenyx/DES/blob/master/cipher.png)
 
-+ new明文
-
++ 解密后明文
 ![](https://github.com/yocichenyx/DES/blob/master/newplain.png)
 
